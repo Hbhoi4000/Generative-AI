@@ -1,0 +1,10 @@
+langchain
+langchain_google_vertexai
+PyPDF2
+streamlit
+langchain_community
+langchain_google_genai
+chromadb
+protobuf==3.20.*
+chromadb
+faiss-cpu
